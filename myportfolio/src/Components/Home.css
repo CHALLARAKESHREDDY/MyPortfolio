@@ -1,0 +1,115 @@
+.Home-Container{
+    background-color:#131414;
+    height:auto;
+    width:100%;
+    color:#ffffff;
+    padding:30px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+
+}
+
+*{
+ box-sizing: border-box;
+ padding:0px;
+ margin:0px;
+}
+
+.MyImage{
+    height:220px;
+    width:220px;
+   object-fit: contain;
+   border: 1px solid ;
+   border-radius: 20px;
+   margin:20px 0px;
+}
+
+.paragraph{
+    font-weight: "300";
+    margin:7px 0px;
+    font-size: 16px;
+}
+
+.Personal{
+    margin:15px 0px;
+}
+
+.Email{
+    margin:4px 0px;
+}
+
+.Git{
+    margin:4px 0px;
+}
+
+.React-Native{
+    color:#677A66;
+    margin-top:12px;
+    margin-bottom: 7px;
+}
+
+.Tictactoe{
+    color:#FFC300
+}
+
+.Each-Poject{
+    margin:15px;
+}
+
+.Reactjs{
+    color:#5D2D63;
+    margin-top:12px;
+    margin-bottom: 7px;
+}
+
+.RythuVaaradhi{
+    color:#257534;
+}
+
+.Javascript{
+    color:#85929E
+}
+
+.Todo{
+    color:#8E44AD
+}
+
+
+@media screen and (max-width:600px){
+    .Home-Container{
+        background-color:#131414;
+        height:auto;
+        width:100%;
+        color:#ffffff;
+        padding:10px;
+    
+    }
+
+    .MyImage{
+        height:160px;
+        width:160px;
+       object-fit: contain;
+       border: 1px solid ;
+       border-radius: 20px;
+       margin:20px 0px;
+    }
+   
+    .paragraph{
+        font-weight: "300";
+        margin:6px 0px;
+        font-size: 14px;
+    }
+
+
+    .Personal{
+        margin:10px 0px;
+    }
+
+    .Each-Poject{
+        margin:10px;
+    }
+
+    .description{
+        font-size: 14px;
+    }
+}

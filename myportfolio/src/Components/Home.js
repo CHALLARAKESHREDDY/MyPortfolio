@@ -46,6 +46,12 @@ const Home = () => {
                     https://www.linkedin.com/in/challa-rakesh-1903851a4/
                 </a>
             </p>
+            <p  className="Git">HackerRank:
+            <a href="https://www.hackerrank.com/profile/19311a0112"  style={{color:"skyblue"}}>
+                https://www.hackerrank.com/profile/19311a0112
+            </a>
+        </p>
+            
             <div className="Personal">
                 
             <h3>Projects</h3>

@@ -39,7 +39,7 @@
 }
 
 .Git{
-    margin:4px 0px;
+    margin:8px 0px;
 }
 
 .React-Native{
@@ -112,4 +112,11 @@
     .description{
         font-size: 14px;
     }
+}
+
+.apkDownload{
+    background-color: #257534;
+    padding:2px;
+    border-radius: 5px;
+    color:white;
 }

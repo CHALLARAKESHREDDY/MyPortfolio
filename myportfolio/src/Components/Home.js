@@ -19,7 +19,7 @@ const Home = () => {
                 book electricians and mechanics for repairs, sell old tools, and even book veterinary doctors.
             </p>
             <p className="paragraph">
-                During college, I chose Python as an elective, sparking my interest in coding. I then learned web development 
+                During college, I choose Python as an elective, sparking my interest in coding. I then learned web development 
                 basics like HTML and CSS from resources like HackerRank, W3Schools, and YouTube.
                 After that, I learned JavaScript, which made it easier to pick up Node.js and React.js since they are built on 
                 top of JavaScript. I enjoyed learning JavaScript because of its simple syntax and versatility.
@@ -64,7 +64,7 @@ const Home = () => {
                     https://github.com/CHALLARAKESHREDDY/TicTacToeApp
                 </a>
               </p>
-              <p className="Git" >App:</p>
+              <p className="Git">App:<a href="https://drive.google.com/file/d/1wwWLVIltkZDQXVhV7MPQcut418r_cGMF/view?usp=drive_link" className="apkDownload" >Apk download</a></p>
               <p className="description">Description: It's just a basic Tic Tac Toe game. Users can enter player names and play. 
                  The game uses simple logic. Circle and cross icons are used from Vector Icons.The player's 
                  name is displayed on top when their turn comes.After winning, the winning title is shown on top
@@ -78,7 +78,7 @@ const Home = () => {
                     https://github.com/CHALLARAKESHREDDY/CricketScoreBoard
                 </a>
               </p>
-              <p className="Git">App:</p>
+              <p className="Git">App:<a href="https://drive.google.com/file/d/1wwWLVIltkZDQXVhV7MPQcut418r_cGMF/view?usp=sharing" className="apkDownload" >Apk download</a></p>
               <p className="description">Description: It's very useful during a cricket match. Users can note down both teams' scores, boundaries, overs, and balls, and save them.
                  Instead of using a notebook or trying to remember, I came up with this idea and developed it
               </p>
@@ -91,7 +91,7 @@ const Home = () => {
                     https://github.com/CHALLARAKESHREDDY/SpotifyMusic
                 </a>
               </p>
-              <p className="Git">App:</p>
+              <p className="Git">App:<a href="https://drive.google.com/file/d/1WajRULWaH5rFGBNWAaolf6dZRWQOA4zG/view?usp=drive_link" className="apkDownload" >Apk download</a></p>
               <p className="description">Description:It's a music player designed with a Spotify-like interface. 
                 I used the track player package to handle functionalities such as changing songs and playing/pausing them.
                 The app can only play the songs that I've set up in the assets folder.
